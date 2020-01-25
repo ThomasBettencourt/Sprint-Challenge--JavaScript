@@ -88,6 +88,7 @@ The resulting contact information strings should have a space between the first 
 
 Log the result of your new array. */
 const contactInfo = [];
+for (let i = 0; i )
 
 console.log(contactInfo);
 
